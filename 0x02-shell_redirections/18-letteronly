@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 egrep ^[[:alpha:]] /etc/ssh/sshd_config
-=======
-egrep ^ [ [:alpha:] ]
-/etc/ssh/sshd_config
->>>>>>> 757e1ff190edf3d46fc4062ce69a74cd4f11348f
