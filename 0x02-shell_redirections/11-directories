@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d ! -path . | WC -l
+find . -type d ! -path . | wc -l
