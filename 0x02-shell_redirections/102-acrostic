@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo $ (cut -cl | tr -d  " \n")
-=======
-echo $(cut -cl | tr -d " \n")
->>>>>>> ed09b80f35f48ca3a1b804fb46ce9b16c81f62a4
